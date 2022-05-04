@@ -1,0 +1,45 @@
+.btn {
+    padding: 14px;
+    font-size: 18px;
+    border-radius: 10px;
+    cursor: pointer;
+    background: #0052cc;
+    color: white;
+    margin: 20px;
+}
+
+
+.borda {
+    border-radius: 25px;
+    height: 30px;
+
+}
+
+#texto {
+    float: left;
+    margin: 50px 100px 20px 100px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0px;
+    overflow: hidden;
+    background-color: #004080;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 76px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #0066cc;
+}
